@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saivivek01
 - 👀 I’m interested in CS Programming.
 - 🌱 I’m currently learning Java,Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me mail me @patlolasaivivek@gmail.com
 
 <!---

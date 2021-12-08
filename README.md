@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saivivek01
 - 👀 I’m interested in C++ Programming.
-- 🌱 I’m currently learning Python,DSA
+- 🌱 I’m currently learning Python, DSA
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me mail me @patlolasaivivek@gmail.com
 

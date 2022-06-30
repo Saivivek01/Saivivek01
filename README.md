@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saivivek01
 - 👀 I’m interested in Blockchain Technology.
-- 🌱 I’m currently learning Solidity to develop smart contracts
+- 🌱 I’m currently learning Solidity and React to develop Dapps
 - 💞️ I’m into NFTs, Metaverse
 - 📫 How to reach me mail me @patlolasaivivek@gmail.com
 
